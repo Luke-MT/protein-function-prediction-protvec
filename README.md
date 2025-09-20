@@ -1,7 +1,5 @@
 # protein-function-prediction-protvec
-LSTM model for classifying protein function families from amino acid sequences using 3-gram embeddings. 
-
-Achieves 97% accuracy and 98% F1-score with optimized batch processing for large-scale datasets.
+LSTM model for classifying protein function families from amino acid sequences using 3-gram embeddings. Achieves 97% accuracy and 98% F1-score.
 
 # model
 Architecture: Bidirectional LSTM
